@@ -37,6 +37,7 @@ namespace Infraestructura.Productos
 
             productos[index] = p;
             return index;
+
         }
 
         public bool Delete(Product p)
